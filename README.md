@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Scorpion1510
 - 👀 I’m interested in learning new things
-- 🌱 I’m currently learning java and cpp 
+- 🌱 I’m currently learning java.
 
 <!---
 Scorpion1510/Scorpion1510 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
